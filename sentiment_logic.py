@@ -1,5 +1,5 @@
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
-# Requites pip install nltk and nltk data:
+# Requires pip install nltk and nltk data:
 # https://www.nltk.org/data.html
 
 # Built with the help of
