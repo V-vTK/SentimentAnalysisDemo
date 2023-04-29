@@ -10,6 +10,8 @@ import sentiment_logic
 # https://github.com/pyqt/examples/tree/_/src/02%20PyQt%20Widgets
 # https://www.nltk.org/howto/sentiment.html
 
+# Python version used 3.10.6 64-bit
+
 # Requires pip install PyQT6 and the bundled file
 # Bundled File: 
 # Requires pip install nltk and nltk data:
